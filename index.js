@@ -68,7 +68,7 @@ const elevatorArea = {
 	},
 }
 
-const maxSessionTime = 1000 * 60 * 1.2
+const maxSessionTime = 1000 * 60 * 1.5
 
 
 
