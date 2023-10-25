@@ -5,6 +5,7 @@ const fs = require('fs')
 let spacing = false
 let session = -1
 let session_name = null
+require('./keep_alive.js')
 
 
 const { pathfinder, Movements } = require('mineflayer-pathfinder')
